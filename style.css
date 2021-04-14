@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+
+#first_row {
+   
+float: left;
+}
+
+#second_row{
+    float: right;
+   text-align: top 50px;
+   text-align: right 50px;
+}
+
